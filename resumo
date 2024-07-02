@@ -1,0 +1,5 @@
+# Git Flow
+- O Git Flow foi desenvolvido em 2010 pelo engenheiro de software holandês, Vincent Driessen. O Git Flow define um modelo de branchs rigoroso projetado com base em releases. Isso oferece uma estrutura robusta para gerenciar projetos maiores. Este fluxo é ideal para projetos que possuem um ciclo de entrega agendada.
+- O Git Flow trabalha com dois branchs principais, a Develop e Main, que duram para sempre e quatro branchs de suporte, Feature, Release, Bugfix e Hotfix, que duram até realizar o merge com as branchs principais. 
+- Como as branchs principais são fixas, elas devem sempre estar sincronizadas. Já as branchs de suporte, que tem tempo de vida definido, devem ser excluídas assim que o merge for realizado nas branchs principais.
+
